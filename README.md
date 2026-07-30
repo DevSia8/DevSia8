@@ -48,7 +48,7 @@ Passionate about building fast, clean and maintainable Vue applications
 </a>
 
 <a href="https://t.me/devsia">
-<img width="42" height="42" alt="icons8-telegram-32" src="https://github.com/user-attachments/assets/2d78df50-7711-4df6-aea0-2a7c9b837c27" />
+<img width="42" height="42" src="https://img.icons8.com/badges/48/telegram.png" alt="telegram"/>
 </a>
 
 <a href="mailto:siavash3119@gmail.com">
