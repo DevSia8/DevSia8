@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,30:1e293b,60:2563eb,100:14b8a6&text=DevSia&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Front-End%20%7C%20Mobile%20Developer&descAlignY=56&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,30:1e293b,60:2563eb,100:14b8a6&text=DevSia&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Front-End%20Developer&descAlignY=56&animation=fadeIn"/>
 
 # Hi there 👋 I'm Siavash Amiri
 
