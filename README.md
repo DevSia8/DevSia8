@@ -44,7 +44,7 @@ Passionate about building fast, clean and maintainable Vue applications
 <p>
 
 <a href="https://github.com/Siavash-code">
-<img src="https://skillicons.dev/icons?i=github" height="42" styles:"margin:5px:"/>
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
 </a>
 
 <a href="https://t.me/devsia">
